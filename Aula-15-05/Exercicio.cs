@@ -3,7 +3,11 @@ namespace Aula_15_05
 {
     public class Exercicio
     {
-        /*  Exercicio aula 15/05
+        // Aula 02 - Variáveis e tipos de dados.
+
+        /*   Exercicio: Um código onde voce pergunta para o usuário o nome dele, a idade, 
+         *   o cargo e no final imprime uma saudação na tela com todas as infos e com data e hora
+         *  
          
             Console.WriteLine("ola qual o seu nome? ");
             string nome = Console.ReadLine();

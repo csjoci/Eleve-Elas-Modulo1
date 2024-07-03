@@ -3,6 +3,8 @@ namespace Aula_10_05
 {
     internal class Exercicio
     {
+        // Aula 01 - Revisão de algoritmos, instruções de entrada, saída e processamento.
+        
         /*
          * Atividade: descrever com a escrita narrativa o algoritmo para sair do quarto, tomar um banho e retornar ao quarto.
          *
