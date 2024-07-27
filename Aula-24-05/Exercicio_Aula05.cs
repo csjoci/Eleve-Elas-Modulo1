@@ -1,4 +1,5 @@
-﻿//Você deve criar um programa que simula o processamento de pedidos em um restaurante. 
+﻿//Exercicio -  Aula 05
+//Você deve criar um programa que simula o processamento de pedidos em um restaurante. 
 //Cada pedido é representado por um número de pedido. 
 //O restaurante tem uma fila de pedidos a serem preparados e uma pilha de pedidos concluídos.
 //O programa deve oferecer as seguintes funcionalidades:
@@ -6,7 +7,6 @@
 //Preparar Pedido: Move o pedido da fila de pedidos a serem preparados para a pilha de pedidos concluídos.
 //Visualizar Pedidos Pendentes: Mostra os pedidos que ainda estão na fila de pedidos a serem preparados.
 //Visualizar Pedidos Concluídos: Mostra os pedidos que foram concluídos e movidos para a pilha de pedidos concluídos.
-
 
 int option = -1;
 Queue<string> listaPedidos = new Queue<string>();
